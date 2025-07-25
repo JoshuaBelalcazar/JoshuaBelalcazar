@@ -8,7 +8,7 @@ I’m a Queens College Class of 2024 graduate with a B.S. in Computer Science an
 
 * 🌍  I'm based in New York City, United States of America
 * ✉️  You can contact me at [belalcazarjoshua@gmail.com](mailto:belalcazarjoshua@gmail.com)
-* 🧠  I'm learning and focused on deepening my knowledge and advancing my skills in backend development by leveraging Java's Spring Boot framework to design and build a microservice.
+* 🧠  I'm learning and focused on deepening my knowledge and advancing my skills in backend development by working as a freelance developer where I integrate machines and automate processes. Develop and maintain microservices for a company's production ERP system in Java. I utilize tools such as Kubernetes, Docker, PostgreSQL, JIRA, and Git and use Mockito for integration testing.
 
 ### Skills
 
